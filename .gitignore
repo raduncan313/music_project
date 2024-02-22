@@ -1,0 +1,7 @@
+/csv
+/etl
+/midi
+/models
+/part_1_hymns_notebooks/scratch/
+.ipynb_checkpoints
+modules/__pycache__/
